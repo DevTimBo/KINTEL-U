@@ -2,7 +2,6 @@ import random
 from math import log, sqrt
 
 class Node:
-
 	def __init__(self, state):
 		self.state = state
 		self.win_value = 0
